@@ -2,7 +2,7 @@
 class ZwapSplashScreen{
 
     constructor() {
-        this.basePath = "http://0.0.0.0:8000";
+        this.basePath = "https://zwapin.github.io/zwap_splash_screen";
     }
 
     loadSplash() {
